@@ -17,7 +17,7 @@ class Card:
 
 # Clear the terminal
 def clear():
-    os.system("clear")
+    os.system("cls")
 
 # Function to print the cards
 def print_cards(cards, hidden):
